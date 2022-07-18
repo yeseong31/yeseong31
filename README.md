@@ -9,6 +9,7 @@
 ## 🔧 Skills
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeseong31&show_icons=true&theme=gotham)
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ys31)](https://solved.ac/ys31)
 
 #### Languages & Platforms

@@ -26,5 +26,5 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ## 📫 Contacts
-[![Naver Badge](https://img.shields.io/badge/yeseong31@naver.com-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeseong31@naver.com)](mailto:yesong31@naver.com)
+[![Naver Badge](https://img.shields.io/badge/yeseong31@naver.com-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeseong31@naver.com)](mailto:yeseong31@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/dpdjvmffkdl@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dpdjvmffkdl@gmail.com)](mailto:dpdjvmffkdl@gmail.com)

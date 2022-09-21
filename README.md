@@ -28,3 +28,6 @@
 ## 📫 Contacts
 [![Naver Badge](https://img.shields.io/badge/yeseong31@naver.com-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeseong31@naver.com)](mailto:yeseong31@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/dpdjvmffkdl@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dpdjvmffkdl@gmail.com)](mailto:dpdjvmffkdl@gmail.com)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeseong31%2Fhit-counter&count_bg=%23268F77&title_bg=%230C1014&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)

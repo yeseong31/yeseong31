@@ -21,6 +21,7 @@
 ![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E.svg?logo=amazon-aws&logoColor=white)
 ![Travis CI](https://img.shields.io/badge/TravisCI-3EAAAF.svg?logo=travis-ci&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=Heroku&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white)
 
 #### Tools
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat-square&logo=PyCharm&logoColor=white) 

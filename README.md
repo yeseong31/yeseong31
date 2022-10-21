@@ -29,7 +29,7 @@
 
 ### 📫 Me 📫
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)](https://incongruous-net-2ed.notion.site/1673cfe777944ec7aa08c970ef346a00)
-[![Naver Badge](https://img.shields.io/badge/NAVER%20Mail-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeseong31@naver.com)](mailto:yeseong31@naver.com)
+[![Naver Badge](https://img.shields.io/badge/NAVER-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeseong31@naver.com)](mailto:yeseong31@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dpdjvmffkdl@gmail.com)](mailto:dpdjvmffkdl@gmail.com)
 
 

@@ -6,7 +6,7 @@
 ### 💡 Programming Ability 💡
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeseong31&show_icons=true&theme=gotham)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ys31)](https://solved.ac/ys31)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ys31)](https://solved.ac/ys31)
 
 ### 🔨 Tech Stack 🔨
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=ffdd54)
@@ -24,8 +24,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![TravisCI](https://img.shields.io/badge/Travis%20CI-%232B2F33.svg?style=flat-square&logo=travis&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=Heroku&logoColor=white)
 
 ### 📫 Me 📫
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)](https://incongruous-net-2ed.notion.site/1673cfe777944ec7aa08c970ef346a00)

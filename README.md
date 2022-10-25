@@ -11,7 +11,7 @@
 ### 🔨 Tech Stack 🔨
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=Django&logoColor=white)
-[![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)](https://incongruous-net-2ed.notion.site/Flask-ed790c7850e844238ab8968ea4c8947a)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat-square&logo=MariaDB&logoColor=white)<br>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white)

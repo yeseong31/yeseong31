@@ -2,7 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Yeseong31&fontSize=60&descSize=30&rotate=3&animation=twinkling)
 
-
 ### 💡 Programming Ability 💡
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeseong31&show_icons=true&theme=gotham)
@@ -15,6 +14,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat-square&logo=MariaDB&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### 📚 Certifications 📚
+<a href="https://www.credly.com/badges/2f6c197b-ea04-421f-8cef-800be4c41a7e/public_url"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"></a>
 
 ### 🔧 Tools 🔧
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat-square&logo=PyCharm&logoColor=white) 

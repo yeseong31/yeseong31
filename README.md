@@ -15,8 +15,8 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat-square&logo=MariaDB&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### 📚 Certifications 📚
-<a href="https://www.credly.com/badges/2f6c197b-ea04-421f-8cef-800be4c41a7e/public_url"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"></a>
+### 📚 Badges 📚
+
 
 ### 🔧 Tools 🔧
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat-square&logo=PyCharm&logoColor=white) 
@@ -24,7 +24,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ### 📫 Contacts 📫
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)](https://incongruous-net-2ed.notion.site/1673cfe777944ec7aa08c970ef346a00)
 [![Naver Badge](https://img.shields.io/badge/NAVER-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeseong31@naver.com)](mailto:yeseong31@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dpdjvmffkdl@gmail.com)](mailto:dpdjvmffkdl@gmail.com)
 

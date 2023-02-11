@@ -3,9 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Yeseong31&fontSize=60&descSize=30&rotate=3&animation=twinkling)
 
-<img src = "https://images.credly.com/size/100x100/images/2f6c197b-ea04-421f-8cef-800be4c41a7e/image.png">
-<img src = "https://images.credly.com/size/100x100/images/1fb0a305-002a-40f5-946e-4924ff3f2b76/image.png">
-<img src = "https://images.credly.com/size/100x100/images/53bca6f3-5a61-4dc4-8f4a-d6254fca93e0/image.png">
+[![AWS Cloud Foundations](https://camo.githubusercontent.com/37538b23a916815c15c65f3b70388b6696a3395c765d94f4f0d20bfe31e519d6/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f313030783130302f696d616765732f37336534613538622d613865662d343161332d613764622d3931383364643236393838322f696d6167652e706e67)](https://www.credly.com/badges/2f6c197b-ea04-421f-8cef-800be4c41a7e/public_url)  [![AWS Cloud Architecting](https://camo.githubusercontent.com/3ddeb838258bcd39dd0e04f131595d312d7bd46826da3bdb2ed65f5d963857be/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f313030783130302f696d616765732f32663762303632372d343861302d343839342d386434362d3332343562646665303436332f696d6167652e706e67)](https://www.credly.com/badges/53bca6f3-5a61-4dc4-8f4a-d6254fca93e0/public_url)  [![AWS Cloud Practitioner Foundational](https://camo.githubusercontent.com/b5d2b20f0f91249fbd98fb488cce5b7a4af76f6c910d3b74fb36ec7135ef64cc/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f313030783130302f696d616765732f30303633346638322d623037662d346262642d613662622d3533646533393766633361362f696d6167652e706e67)](https://www.credly.com/badges/1fb0a305-002a-40f5-946e-4924ff3f2b76/public_url)
   
 **📫E-mail**: [![Naver Badge](https://img.shields.io/badge/yeseong31-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeseong31@naver.com)](mailto:yeseong31@naver.com)
 

@@ -3,6 +3,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Yeseong31&fontSize=60&descSize=30&rotate=3&animation=twinkling)
 
+<img src = "https://images.credly.com/size/100x100/images/2f6c197b-ea04-421f-8cef-800be4c41a7e/image.png">
+<img src = "https://images.credly.com/size/100x100/images/1fb0a305-002a-40f5-946e-4924ff3f2b76/image.png">
+<img src = "https://images.credly.com/size/100x100/images/53bca6f3-5a61-4dc4-8f4a-d6254fca93e0/image.png">
+  
 **📫E-mail**: [![Naver Badge](https://img.shields.io/badge/yeseong31-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeseong31@naver.com)](mailto:yeseong31@naver.com)
 
 <br>
@@ -35,7 +39,7 @@
 
 ## ✏️ Experience ✏️
 
-2023-01 ~ : AWS Cloud Bootcamp
+2023-01 ~ 2023-02: AWS Cloud Bootcamp
 
 2017-03 ~ 2023-02 : Tech University of Korea - Computer Engineering
 

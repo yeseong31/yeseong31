@@ -20,6 +20,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=Django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=flat-square&logo=MariaDB&logoColor=white)
@@ -37,7 +38,7 @@
 
 ## ✏️ Experience ✏️
 
-2023-01 ~ 2023-02: AWS Cloud Bootcamp
+2023-01 ~ 2023-03: AWS Cloud Bootcamp
 
 2017-03 ~ 2023-02 : Tech University of Korea - Computer Engineering
 

@@ -6,8 +6,8 @@
 <a  href="https://www.credly.com/badges/2f6c197b-ea04-421f-8cef-800be4c41a7e/public_url"><img  src="https://images.credly.com/size/100x100/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100"></a><a  href="https://www.credly.com/badges/53bca6f3-5a61-4dc4-8f4a-d6254fca93e0/public_url"><img  src="https://images.credly.com/size/100x100/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" width="100"></a><a  href="https://www.credly.com/badges/1fb0a305-002a-40f5-946e-4924ff3f2b76/public_url"><img  src="https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"></a><a  href="https://www.credly.com/badges/35013bde-ce22-4f81-b248-765dd85a335b/public_url"><img  src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
   
 **📫 E-mail**: [![Naver Badge](https://img.shields.io/badge/yeseong31-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeseong31@naver.com)](mailto:yeseong31@naver.com)
-  
-**📑 Resume**  [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://incongruous-net-2ed.notion.site/Yeseong31-07d2037776434291acad57f2e29be304)
+<br>
+**📑 Resume**:  [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://incongruous-net-2ed.notion.site/Yeseong31-07d2037776434291acad57f2e29be304)
 
 <br>
 

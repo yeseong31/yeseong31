@@ -52,6 +52,8 @@
 
 2017-03 ~ 2023-02 : Tech University of Korea - Computer Engineering
 
+2024-04 ~ : seizedata (Back-end developer)
+
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeseong31%2Fhit-counter&count_bg=%23268F77&title_bg=%230C1014&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)

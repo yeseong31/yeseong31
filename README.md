@@ -1,5 +1,5 @@
 
-<div align=center>
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Yeseong31&fontSize=60&descSize=30&rotate=3&animation=twinkling)
 
@@ -48,14 +48,13 @@
 
 ## ✏️ Experience ✏️
 
+2024-04 ~ : SeizeData (Back-end engineer)
+
 2023-01 ~ 2023-03: AWS Cloud Bootcamp
 
 2017-03 ~ 2023-02 : Tech University of Korea - Computer Engineering
-
-2024-04 ~ : seizedata (Back-end developer)
 
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeseong31%2Fhit-counter&count_bg=%23268F77&title_bg=%230C1014&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
 
-</div>

@@ -12,8 +12,6 @@
   
 **📫 E-mail**: [![Naver Badge](https://img.shields.io/badge/yeseong31-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeseong31@naver.com)](mailto:yeseong31@naver.com)
 
-**📑 Resume**:  [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://incongruous-net-2ed.notion.site/Yeseong31-07d2037776434291acad57f2e29be304)
-
 **️👨‍💻 Blog**:  [![velog](https://img.shields.io/badge/velog-%2320C997.svg?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yeseong31)
 
 <br>

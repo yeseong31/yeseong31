@@ -50,7 +50,9 @@
 ## ✏️ Experience ✏️
 
 2024-04 ~ 2025-04 : SeizeData (Back-end engineer)
+
 2023-01 ~ 2023-03: AWS Cloud Bootcamp
+
 2017-03 ~ 2023-02 : Tech University of Korea - Computer Engineering
 
 

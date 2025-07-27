@@ -49,6 +49,8 @@
 
 ## ✏️ Experience ✏️
 
+2025-07 ~ : SSAFY 14th
+
 2024-04 ~ 2025-04 : SeizeData (Back-end engineer)
 
 2023-01 ~ 2023-03: AWS Cloud Bootcamp

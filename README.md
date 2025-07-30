@@ -49,7 +49,7 @@
 
 ## ✏️ Experience ✏️
 
-2025-07 ~ : SSAFY 14th
+2025-07 ~ 2026: SSAFY 14th
 
 2024-04 ~ 2025-04 : SeizeData (Back-end engineer)
 

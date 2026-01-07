@@ -14,7 +14,7 @@
 
 <br>
 
-### 🔨 Tech Stack 🔨
+### 🔨 Stacks
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
@@ -59,10 +59,10 @@
 
 ### 📜 Certifications
 
-| Certification | Issuer |
-|--------------|--------|
-| 정보처리기사 | 한국산업인력공단 (HRDK) |
-| AWS Certified Cloud Practitioner (CLF-C01) | Amazon Web Services |
-| AWS Certified Solutions Architect – Associate (SAA-C03) | Amazon Web Services |
-| SQL Developer (SQLD) | 한국데이터산업진흥원 |
-| Advanced Data Analytics Semi-Professional (ADsP) | 한국데이터산업진흥원 |
+| Certification | Issuer | Date Acquired |
+|--------------|--------|---------------|
+| 정보처리기사 | 한국산업인력공단 (HRDK) | 2022.09.08 |
+| AWS Certified Cloud Practitioner (CLF-C01) | Amazon Web Services | 2023.01.26 |
+| AWS Certified Solutions Architect – Associate (SAA-C03) | Amazon Web Services | 2023.03.16 |
+| SQL Developer (SQLD) | 한국데이터산업진흥원 | 2025.09.19 |
+| Advanced Data Analytics Semi-Professional (ADsP) | 한국데이터산업진흥원 | 2025.11.28 |

@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Yeseong31&fontSize=60&descSize=30&rotate=3&animation=twinkling)
   
-**📫 E-mail**: [![Naver Badge](https://img.shields.io/badge/yeseong31-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeseong31@naver.com)](mailto:yeseong31@naver.com)
-
-**️👨‍💻 Blog**:  [![velog](https://img.shields.io/badge/velog-%2320C997.svg?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yeseong31)
+- **📫 E-mail**: [![Naver Badge](https://img.shields.io/badge/yeseong31-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeseong31@naver.com)](mailto:yeseong31@naver.com)
+- **️👨‍💻 Blog**:  [![velog](https://img.shields.io/badge/velog-%2320C997.svg?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yeseong31)
 
 <br>
 

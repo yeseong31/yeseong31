@@ -49,7 +49,7 @@
 | Period | Organization / Program | Role |
 |------|------------------------|------|
 | 2026.01 – Present | Hyundai AutoEver | Back-end Developer |
-| 2025.07 – 2026.01 | SSAFY (Samsung SW·AI Academy For Youth), 14th | Trainee |
+| 2025.07 – 2025.12 | SSAFY (Samsung SW·AI Academy For Youth), 14th | Trainee |
 | 2024.04 – 2025.04 | seizedata | Back-end Engineer |
 | 2023.01 – 2023.03 | AWS Cloud Bootcamp, 3rd | Participant |
 | 2017.03 – 2023.02 | Tech University of Korea | Computer Engineering |

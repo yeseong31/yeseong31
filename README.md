@@ -31,7 +31,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E.svg?style=flat-square&logo=vue.js&logoColor=4FC08D)
-<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 <br>

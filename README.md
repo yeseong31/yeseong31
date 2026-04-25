@@ -4,9 +4,7 @@
 
 <br>
 
-### 👨🏻‍💻 BOJ Ability
-
-<img src="https://topsolved.mayonedev.com/api/boj?handle=ys31&row=25&base_color=default">
+### 👨🏻‍💻 Programming Ability
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ys31)](https://solved.ac/ys31)
 
